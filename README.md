@@ -356,6 +356,5 @@ This skill is provided as-is for Windows GUI automation.
 - **Test incrementally** — One step at a time
 
 ---
-
 **Ready to automate? Start with scanning the screen, then click by text! 🚀**
 
